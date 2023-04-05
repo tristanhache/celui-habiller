@@ -206,7 +206,7 @@ BANNER
 }
 
 /*--------------------------------
-TYPE OF COFFEE
+TYPE OF shirt
 ---------------------------------*/
 .sect--type{
   background-image: url('https://i.ibb.co/VphmM2T/46664662080.png');
@@ -228,11 +228,11 @@ TYPE OF COFFEE
     margin-bottom: 0;
 }
 
-.coffee {
+.shirt {
     padding: 0 25px;
 }
 
-.coffee__name {
+.shirt__name {
     letter-spacing: 1px;
     font-size: 16px;
     text-transform: uppercase;
@@ -242,11 +242,11 @@ TYPE OF COFFEE
     color: #CECECE;
 }
 
-.coffee__img {
+.shirt__img {
     width: 80%;
 }
 
-.coffee__descr {
+.shirt__descr {
     margin: 0;
     line-height: 23px;
 }
@@ -297,7 +297,7 @@ STORY
 }
 
 /*--------------------------------
-GREAT COFFEE
+GREAT shirt
 ---------------------------------*/
 .sect--great {
     background-image: url('https://image.ibb.co/kvDRDb/section_bg_10.jpg');
@@ -309,7 +309,7 @@ GREAT COFFEE
 }
 
 /*--------------------------------
-THE BEST COFFEE SHOP
+THE BEST shirt SHOP
 ---------------------------------*/
 .sect--best {
     background-image: url('https://image.ibb.co/mh6S3b/section_bg_3.jpg');
@@ -360,15 +360,15 @@ THREE IMAGES
 }
 
 .three-img--1 {
-    background-image: url('http://image.ibb.co/jjTnKG/gallery_coffee_image_1.jpg');
+    background-image: url('http://image.ibb.co/jjTnKG/gallery_shirt_image_1.jpg');
 }
 
 .three-img--2 {
-    background-image: url('http://image.ibb.co/iKxmDb/gallery_coffee_image_2_1.jpg');
+    background-image: url('http://image.ibb.co/iKxmDb/gallery_shirt_image_2_1.jpg');
 }
 
 .three-img--3 {
-    background-image: url('http://image.ibb.co/b5qTRw/gallery_coffee_image_5.jpg');
+    background-image: url('http://image.ibb.co/b5qTRw/gallery_shirt_image_5.jpg');
 }
 
 /*--------------------------------
@@ -526,7 +526,7 @@ RESPONSIVE
   .row--margin {
     margin-top: 45px;
 }
-  .coffee {
+  .shirt {
     padding: 0 15px;
   }
   .coffe__img{
@@ -562,13 +562,13 @@ RESPONSIVE
   .row--margin {
     margin-top: 30px;
 }
-  .coffee{
+  .shirt{
     margin-bottom:30px;
   }
-  .coffee__img {
+  .shirt__img {
     width: 35%;
   }
-  .coffee__descr, .sect__subtitle{
+  .shirt__descr, .sect__subtitle{
     padding: 0 50px;
   }
   .sect__title, .description__title, .footer__big-title {
@@ -616,10 +616,10 @@ RESPONSIVE
   .sect__subtitle{
     padding:0;
   }
-  .coffee__img {
+  .shirt__img {
     width: 65%;
   }
-  .coffee__descr, .sect__subtitle {
+  .shirt__descr, .sect__subtitle {
     padding: 0 15px;
   }
   .best--margin {
